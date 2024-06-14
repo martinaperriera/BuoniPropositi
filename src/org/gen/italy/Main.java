@@ -1,6 +1,6 @@
 package org.gen.italy;
 
-/*
+/* .
  Scrivere un programma per gestire i “Buoni propositi per il futuro”: il
 programma all’avvio visualizza 5 “buoni propositi” (es: “fare più
 attività fisica”, “esercitarsi sulla OOP”, ecc.).
